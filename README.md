@@ -1,4 +1,4 @@
-# Personalized-News-Aggregator
+# Smart Personalized News Aggregator
 
 
 Overview :  This News Aggregator project is designed to collect, categorize, and serve news articles from various sources using web scraping and RESTful APIs. It delivers personalized news to users based on categories like technology, sports, business, entertainment, etc. 
